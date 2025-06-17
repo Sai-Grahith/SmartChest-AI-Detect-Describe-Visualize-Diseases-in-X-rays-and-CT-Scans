@@ -66,19 +66,15 @@ This project was built as part of a B.Tech major project at Mahatma Gandhi Insti
 ### Upload Chest X-ray Image or CT scan Image and click Start Analyze Button
 
 ![Upload](https://github.com/user-attachments/assets/9a5dfff8-5bc3-44ac-9f96-50ab56c6f14a)
- 
 ### Start’s Analyzing the Uploaded Chest X-ray or CT scan Image
 
 ![Alalyze](https://github.com/user-attachments/assets/00b2c8bb-6208-4672-8e3c-b2a1a4ffbe90)
- 
 ### Diagnosis Results of Uploaded Chest X-ray Image
 
 ![X-ray result](https://github.com/user-attachments/assets/db371a61-cfbe-4b10-a2aa-77f387440e3c)
-
 ### Disease Findings of Chest X-ray Image through Grad-cam
 
 ![Grad-Cam](https://github.com/user-attachments/assets/ae9559b2-56c2-4258-a90d-b01b4889fd17)
-
 ### Detail Description about the Findings and Impression of Uploaded CT Scan
 
 ![CT result](https://github.com/user-attachments/assets/1fc0661a-a423-41d3-997c-8eaa2447045f)
@@ -102,35 +98,6 @@ This project was built as part of a B.Tech major project at Mahatma Gandhi Insti
 * CT-ViT extracts spatio-temporal embeddings.
 * A projection head aligns the vector with the Mistral-7B input space.
 * An LLM generates a radiology-style Findings & Impression report.
-
----
-
-## Setup Instructions
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/Sai-Grahith/SmartChest-AI-Detect-Describe-Visualize-Diseases-in-X-rays-CT-Scans.git
-cd SmartChestAI
-```
-
-### 2. Start Backend (Flask)
-
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-
-### 3. Start Frontend (React)
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-> Backend runs on `http://localhost:5000`, frontend on `http://localhost:3000`.
 
 ---
 
