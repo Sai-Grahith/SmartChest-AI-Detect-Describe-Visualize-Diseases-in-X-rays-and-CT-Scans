@@ -6,7 +6,8 @@ This system bridges cutting-edge AI with real-world radiology needs, making high
 
 ### SmartChest AI User Interface
 
-![SmartChest AI UI](https://github.com/user-attachments/assets/83fb50fd-4fb2-40ba-bb84-7ba6e12ec05b)
+![SmartChest AI UI](https://github.com/user-attachments/assets/d773f26b-16ac-4ab4-a251-e7a5c15a3762)
+
 
 ---
 
@@ -64,20 +65,23 @@ This project was built as part of a B.Tech major project at Mahatma Gandhi Insti
 
 ### Upload Chest X-ray Image or CT scan Image and click Start Analyze Button
 
-![Upload](https://github.com/user-attachments/assets/ea882b32-7a8c-4eee-89f9-ecbec7cb2167) 
+![Upload](https://github.com/user-attachments/assets/9a5dfff8-5bc3-44ac-9f96-50ab56c6f14a)
+ 
 ### Start’s Analyzing the Uploaded Chest X-ray or CT scan Image
 
-![Alalyze](https://github.com/user-attachments/assets/d39e42ad-a9cb-4e99-8972-ff5ee4b444d3) 
+![Alalyze](https://github.com/user-attachments/assets/00b2c8bb-6208-4672-8e3c-b2a1a4ffbe90)
+ 
 ### Diagnosis Results of Uploaded Chest X-ray Image
 
-![X-ray result](https://github.com/user-attachments/assets/f9a7a4d1-8a4f-452c-9392-644f2b53c0ea) 
+![X-ray result](https://github.com/user-attachments/assets/db371a61-cfbe-4b10-a2aa-77f387440e3c)
+
 ### Disease Findings of Chest X-ray Image through Grad-cam
 
-![Grad-Cam](https://github.com/user-attachments/assets/d762ac57-4fc0-45da-8e64-d35ea518fea3) 
+![Grad-Cam](https://github.com/user-attachments/assets/ae9559b2-56c2-4258-a90d-b01b4889fd17)
+
 ### Detail Description about the Findings and Impression of Uploaded CT Scan
 
-![CT result](https://github.com/user-attachments/assets/7fbf1b2e-84b9-49f8-8a75-1b3305dbebae) 
-
+![CT result](https://github.com/user-attachments/assets/1fc0661a-a423-41d3-997c-8eaa2447045f)
 
 ---
 
